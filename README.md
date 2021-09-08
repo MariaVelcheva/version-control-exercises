@@ -1,1 +1,1 @@
-R MArkdown
+R Markdown
